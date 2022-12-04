@@ -1,0 +1,18 @@
+.text{
+    background-color:#4a3728;
+    color:white;
+    font-weight: bolder;
+    font-family: "Courier New", monospace;
+    font-size:50px;
+}
+
+.buttons{
+    background-color:#4a3728;
+    color:white;
+    font-weight:bolder;
+    font-family:"Courier New", monospace;
+    font-size:25px;
+    border-style:solid;
+    border-color:lightblue;
+    border-radius: 10%;
+}
